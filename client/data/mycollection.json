@@ -1,0 +1,2945 @@
+{
+  "pagination": {
+    "page": 1,
+    "pages": 6,
+    "per_page": 50,
+    "items": 285,
+    "urls": {
+      "last": "https://api.discogs.com/users/noiseoversignal/collection/folders/0/releases?token=vRQsurQnyqBagkJeTeMEoDgqoHejdzrqpllwwudw&page=6&per_page=50",
+      "next": "https://api.discogs.com/users/noiseoversignal/collection/folders/0/releases?token=vRQsurQnyqBagkJeTeMEoDgqoHejdzrqpllwwudw&page=2&per_page=50"
+    }
+  },
+  "releases": [
+    {
+      "id": 1172364,
+      "instance_id": 138182476,
+      "date_added": "2015-08-18T15:30:44-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1172364,
+        "master_id": 156783,
+        "master_url": "https://api.discogs.com/masters/156783",
+        "resource_url": "https://api.discogs.com/releases/1172364",
+        "thumb": "https://img.discogs.com/5q4_CqAEajkiRrme-pR6PPnNyOM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1172364-1295865515.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/q5Tt1chD1nRqfA33mfYYwqdAAI8=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1172364-1295865515.jpeg.jpg",
+        "title": "Red Cities",
+        "year": 2002,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "12XU",
+            "catno": "12XU 010-01",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 61865,
+            "resource_url": "https://api.discogs.com/labels/61865"
+          },
+          {
+            "name": "Kimchee Records",
+            "catno": "KC 019",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 34737,
+            "resource_url": "https://api.discogs.com/labels/34737"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Chris Brokaw",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 53516,
+            "resource_url": "https://api.discogs.com/artists/53516"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Alternative Rock",
+          "Indie Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 864009,
+      "instance_id": 138202529,
+      "date_added": "2015-08-18T18:56:54-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 864009,
+        "master_id": 50645,
+        "master_url": "https://api.discogs.com/masters/50645",
+        "resource_url": "https://api.discogs.com/releases/864009",
+        "thumb": "https://img.discogs.com/PtJFRzLexiRnQKQ1lCKi_EJ-i5k=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-864009-1492788788-5240.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/MKqPqAynA5S62CjS4eq_h7cgCZU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-864009-1492788788-5240.jpeg.jpg",
+        "title": "Pink Flag",
+        "year": 2006,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "4 Men With Beards",
+            "catno": "4M508",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 36605,
+            "resource_url": "https://api.discogs.com/labels/36605"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Wire",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 21323,
+            "resource_url": "https://api.discogs.com/artists/21323"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Punk"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 819419,
+      "instance_id": 138202569,
+      "date_added": "2015-08-18T18:57:18-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 819419,
+        "master_id": 50617,
+        "master_url": "https://api.discogs.com/masters/50617",
+        "resource_url": "https://api.discogs.com/releases/819419",
+        "thumb": "https://img.discogs.com/tmyW4ltfy0ikE-c2xyLuyS1adlY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-819419-1284423761.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/mPuXqgX_hp4LIonGLSw-mHCo3xA=/fit-in/432x432/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-819419-1284423761.jpeg.jpg",
+        "title": "Chairs Missing",
+        "year": 2006,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "4 Men With Beards",
+            "catno": "4M509",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 36605,
+            "resource_url": "https://api.discogs.com/labels/36605"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Wire",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 21323,
+            "resource_url": "https://api.discogs.com/artists/21323"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "New Wave"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2460386,
+      "instance_id": 138184391,
+      "date_added": "2015-08-18T15:54:29-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2460386,
+        "master_id": 278175,
+        "master_url": "https://api.discogs.com/masters/278175",
+        "resource_url": "https://api.discogs.com/releases/2460386",
+        "thumb": "https://img.discogs.com/l5px2eecFxuhDrKNTa85YBKrdO8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2460386-1600023848-5019.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/R4jvnnJPoOAgWpqqOdawRWaV0nQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2460386-1600023848-5019.jpeg.jpg",
+        "title": "Halcyon Digest",
+        "year": 2010,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "White",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "4AD",
+            "catno": "CAD 3X38",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 634,
+            "resource_url": "https://api.discogs.com/labels/634"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Deerhunter",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 724296,
+            "resource_url": "https://api.discogs.com/artists/724296"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Shoegaze",
+          "Art Rock",
+          "Indie Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2449546,
+      "instance_id": 138196257,
+      "date_added": "2015-08-18T17:54:40-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2449546,
+        "master_id": 16764,
+        "master_url": "https://api.discogs.com/masters/16764",
+        "resource_url": "https://api.discogs.com/releases/2449546",
+        "thumb": "https://img.discogs.com/g-cGlzImo8ufaVZN1FFknsXZaK0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2449546-1485614679-6591.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/-yWR_olMdZaogfwhMJ_xGjA2SgQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2449546-1485614679-6591.jpeg.jpg",
+        "title": "Doolittle",
+        "year": 2004,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180 gram",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "4AD",
+            "catno": "CAD 905",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 634,
+            "resource_url": "https://api.discogs.com/labels/634"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Pixies",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 231577,
+            "resource_url": "https://api.discogs.com/artists/231577"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Indie Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 13751098,
+      "instance_id": 841050715,
+      "date_added": "2021-10-26T11:23:13-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 13751098,
+        "master_id": 12304,
+        "master_url": "https://api.discogs.com/masters/12304",
+        "resource_url": "https://api.discogs.com/releases/13751098",
+        "thumb": "https://img.discogs.com/tg4lNJ6CKftiPJBKwS8Y14xssNg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-13751098-1560342286-8027.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/MZDWFDoCFh3mkvljtNKVy9kC2xg=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13751098-1560342286-8027.jpeg.jpg",
+        "title": "Burrito Deluxe",
+        "year": 1970,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP 4258",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Flying Burrito Bros",
+            "anv": "The Flying Burrito Bros.",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 285133,
+            "resource_url": "https://api.discogs.com/artists/285133"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Country Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2025644,
+      "instance_id": 138192873,
+      "date_added": "2015-08-18T17:22:33-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2025644,
+        "master_id": 109704,
+        "master_url": "https://api.discogs.com/masters/109704",
+        "resource_url": "https://api.discogs.com/releases/2025644",
+        "thumb": "https://img.discogs.com/r-H9J_MVXFbhOzkyrb2MdX6jqMw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2025644-1295470529.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/F7rk9ohOPjeIqO-iTi1qprQRyKs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2025644-1295470529.jpeg.jpg",
+        "title": "Globe Of Frogs",
+        "year": 1988,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "A&M Records",
+            "catno": "SP 5182",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 904,
+            "resource_url": "https://api.discogs.com/labels/904"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Robyn Hitchcock & The Egyptians",
+            "anv": "Robyn Hitchcock And The Egyptians",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 311774,
+            "resource_url": "https://api.discogs.com/artists/311774"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Alternative Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 512366,
+      "instance_id": 138198994,
+      "date_added": "2015-08-18T18:21:11-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 512366,
+        "master_id": 16984,
+        "master_url": "https://api.discogs.com/masters/16984",
+        "resource_url": "https://api.discogs.com/releases/512366",
+        "thumb": "https://img.discogs.com/q4_IKjyH2edk627Wwh4zSbr6e1s=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-512366-1356970793-8400.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/evgkIWacJ-2iy2n_TSzQNh4dSTc=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-512366-1356970793-8400.jpeg.jpg",
+        "title": "Pretzel Logic",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Santa Maria Pressing, Gatefold",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "ABC Records",
+            "catno": "ABCD-808",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 12220,
+            "resource_url": "https://api.discogs.com/labels/12220"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Steely Dan",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 160906,
+            "resource_url": "https://api.discogs.com/artists/160906"
+          }
+        ],
+        "genres": [
+          "Jazz",
+          "Rock"
+        ],
+        "styles": [
+          "Jazz-Rock",
+          "Pop Rock",
+          "Classic Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 762014,
+      "instance_id": 138199019,
+      "date_added": "2015-08-18T18:21:27-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 762014,
+        "master_id": 16954,
+        "master_url": "https://api.discogs.com/masters/16954",
+        "resource_url": "https://api.discogs.com/releases/762014",
+        "thumb": "https://img.discogs.com/h-iFqC9tCtsT7xs8oMr0N26Oo3I=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-762014-1307382090.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/ZYqNgdozYKNtlnpoT9iAkY4RF84=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-762014-1307382090.jpeg.jpg",
+        "title": "Katy Lied",
+        "year": 1975,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Terre Haute Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "ABC Records",
+            "catno": "ABCD-846",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 12220,
+            "resource_url": "https://api.discogs.com/labels/12220"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Steely Dan",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 160906,
+            "resource_url": "https://api.discogs.com/artists/160906"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1580493,
+      "instance_id": 138198966,
+      "date_added": "2015-08-18T18:20:58-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1580493,
+        "master_id": 16883,
+        "master_url": "https://api.discogs.com/masters/16883",
+        "resource_url": "https://api.discogs.com/releases/1580493",
+        "thumb": "https://img.discogs.com/UqIMutb44XoUWw_rMW8xJuoi8RU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1580493-1361520542-2381.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/No8cMZh77xzGICcHX3SlXsNlnVo=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1580493-1361520542-2381.jpeg.jpg",
+        "title": "Can't Buy A Thrill",
+        "year": 1972,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "ABC Records",
+            "catno": "ABCX-758",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 12220,
+            "resource_url": "https://api.discogs.com/labels/12220"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Steely Dan",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 160906,
+            "resource_url": "https://api.discogs.com/artists/160906"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Classic Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 5040701,
+      "instance_id": 184205467,
+      "date_added": "2016-08-17T23:35:59-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 5040701,
+        "master_id": 174428,
+        "master_url": "https://api.discogs.com/masters/174428",
+        "resource_url": "https://api.discogs.com/releases/5040701",
+        "thumb": "https://img.discogs.com/WXXMmQjFfnS6Rc9D_ay19uAvnXA=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5040701-1382887096-7530.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/pmdt7OfYHzZ36hpsad8KAQkzGwc=/fit-in/400x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5040701-1382887096-7530.jpeg.jpg",
+        "title": "T. S. Eliot Reads His Four Quartets",
+        "year": 0,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Repress",
+              "Mono"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Angel Records",
+            "catno": "45012",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 7505,
+            "resource_url": "https://api.discogs.com/labels/7505"
+          }
+        ],
+        "artists": [
+          {
+            "name": "T. S. Eliot",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 515778,
+            "resource_url": "https://api.discogs.com/artists/515778"
+          }
+        ],
+        "genres": [
+          "Non-Music"
+        ],
+        "styles": [
+          "Poetry"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2498807,
+      "instance_id": 138181532,
+      "date_added": "2015-08-18T15:20:03-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2498807,
+        "master_id": 24047,
+        "master_url": "https://api.discogs.com/masters/24047",
+        "resource_url": "https://api.discogs.com/releases/2498807",
+        "thumb": "https://img.discogs.com/KxU3_U2l5wLMjb7RqsiGO6e7xD4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2498807-1425279296-1235.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/jwmEhAbhbtJRNugbUvyehTPwJLs=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2498807-1425279296-1235.jpeg.jpg",
+        "title": "Abbey Road",
+        "year": 1969,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Apple Records",
+            "catno": "PCS 7088",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25693,
+            "resource_url": "https://api.discogs.com/labels/25693"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beatles",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 82730,
+            "resource_url": "https://api.discogs.com/artists/82730"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Psychedelic Rock",
+          "Pop Rock",
+          "Classic Rock",
+          "Acoustic"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 4790817,
+      "instance_id": 140148986,
+      "date_added": "2015-09-07T16:59:16-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 4790817,
+        "master_id": 24212,
+        "master_url": "https://api.discogs.com/masters/24212",
+        "resource_url": "https://api.discogs.com/releases/4790817",
+        "thumb": "https://img.discogs.com/v61RizB0Q8hh2Wb-ST0sS1VBPsw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4790817-1601974503-5860.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/ViqZ5hchSAm9Cz2IWnwlDS_qUe0=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4790817-1601974503-5860.jpeg.jpg",
+        "title": "Let It Be",
+        "year": 1970,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Red Apple on rear cover",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Apple Records",
+            "catno": "PCS 7096",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25693,
+            "resource_url": "https://api.discogs.com/labels/25693"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beatles",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 82730,
+            "resource_url": "https://api.discogs.com/artists/82730"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1485752,
+      "instance_id": 138192599,
+      "date_added": "2015-08-18T17:19:47-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1485752,
+        "master_id": 56036,
+        "master_url": "https://api.discogs.com/masters/56036",
+        "resource_url": "https://api.discogs.com/releases/1485752",
+        "thumb": "https://img.discogs.com/xxvFE0Va95figDIQOJQyPAf9Syc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1485752-1362958998-8618.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/Exbb_I4oQwkLyfT5dAzGGJV7jb8=/fit-in/585x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1485752-1362958998-8618.jpeg.jpg",
+        "title": "All Things Must Pass",
+        "year": 1970,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "3",
+            "text": "Winchester Pressing ",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          },
+          {
+            "name": "Box Set",
+            "qty": "1"
+          }
+        ],
+        "labels": [
+          {
+            "name": "Apple Records",
+            "catno": "STCH 639",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25693,
+            "resource_url": "https://api.discogs.com/labels/25693"
+          }
+        ],
+        "artists": [
+          {
+            "name": "George Harrison",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 243955,
+            "resource_url": "https://api.discogs.com/artists/243955"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 6782548,
+      "instance_id": 149586116,
+      "date_added": "2015-12-07T20:47:08-08:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 6782548,
+        "master_id": 72864,
+        "master_url": "https://api.discogs.com/masters/72864",
+        "resource_url": "https://api.discogs.com/releases/6782548",
+        "thumb": "https://img.discogs.com/rcjmuze51gisg2ZbGkw8vblJHak=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6782548-1568092603-7438.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/VihTE4GmnQhhpm2QctXAFN791R8=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6782548-1568092603-7438.jpeg.jpg",
+        "title": "John Lennon / Plastic Ono Band",
+        "year": 1970,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Scranton Press",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Apple Records",
+            "catno": "SW 3372",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25693,
+            "resource_url": "https://api.discogs.com/labels/25693"
+          }
+        ],
+        "artists": [
+          {
+            "name": "John Lennon",
+            "anv": "",
+            "join": "/",
+            "role": "",
+            "tracks": "",
+            "id": 46481,
+            "resource_url": "https://api.discogs.com/artists/46481"
+          },
+          {
+            "name": "The Plastic Ono Band",
+            "anv": "Plastic Ono Band",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 256190,
+            "resource_url": "https://api.discogs.com/artists/256190"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock",
+          "Folk Rock",
+          "Ballad"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 770221,
+      "instance_id": 138193615,
+      "date_added": "2015-08-18T17:29:46-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 770221,
+        "master_id": 41265,
+        "master_url": "https://api.discogs.com/masters/41265",
+        "resource_url": "https://api.discogs.com/releases/770221",
+        "thumb": "https://img.discogs.com/nO9Xdcq37dK-tVrhKbSHm8jZkwM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-770221-1323068523.png.jpg",
+        "cover_image": "https://img.discogs.com/NmBEsWIfCo9fydE9qTdPZijR7gs=/fit-in/595x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-770221-1323068523.png.jpg",
+        "title": "Shaved Fish",
+        "year": 1975,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Winchester Pressing",
+            "descriptions": [
+              "LP",
+              "Compilation"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Apple Records",
+            "catno": "SW-3421",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25693,
+            "resource_url": "https://api.discogs.com/labels/25693"
+          }
+        ],
+        "artists": [
+          {
+            "name": "John Lennon",
+            "anv": "Lennon",
+            "join": "/",
+            "role": "",
+            "tracks": "",
+            "id": 46481,
+            "resource_url": "https://api.discogs.com/artists/46481"
+          },
+          {
+            "name": "The Plastic Ono Band",
+            "anv": "Plastic Ono Band",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 256190,
+            "resource_url": "https://api.discogs.com/artists/256190"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 4042258,
+      "instance_id": 138181643,
+      "date_added": "2015-08-18T15:21:11-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 4042258,
+        "master_id": 24047,
+        "master_url": "https://api.discogs.com/masters/24047",
+        "resource_url": "https://api.discogs.com/releases/4042258",
+        "thumb": "https://img.discogs.com/VqjwyBgJhiaR3a7G4kXpYlcrq8Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4042258-1354863608-7099.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/OS1hTtw5EQyEKOKcHOlz-kA9dgw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4042258-1354863608-7099.jpeg.jpg",
+        "title": "Abbey Road",
+        "year": 2012,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "180 Gram",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Apple Records",
+            "catno": "PCS 7088",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25693,
+            "resource_url": "https://api.discogs.com/labels/25693"
+          },
+          {
+            "name": "Apple Records",
+            "catno": "094638246817",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25693,
+            "resource_url": "https://api.discogs.com/labels/25693"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beatles",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 82730,
+            "resource_url": "https://api.discogs.com/artists/82730"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 371460,
+      "instance_id": 138196068,
+      "date_added": "2015-08-18T17:53:11-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 371460,
+        "master_id": 611629,
+        "master_url": "https://api.discogs.com/masters/611629",
+        "resource_url": "https://api.discogs.com/releases/371460",
+        "thumb": "https://img.discogs.com/K4n0Srhmb8CxgHe4hvtgdiyl0YU=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-371460-1559062741-5618.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/uNXk-8ab80xpfRQ8mDPixIIMC7U=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371460-1559062741-5618.jpeg.jpg",
+        "title": "Charlie Parker",
+        "year": 1968,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Compilation",
+              "Remastered"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Archive Of Folk Music",
+            "catno": "FS-214",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 453268,
+            "resource_url": "https://api.discogs.com/labels/453268"
+          },
+          {
+            "name": "Everest Records Archive Of Folk & Jazz Music",
+            "catno": "FS-214",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 794147,
+            "resource_url": "https://api.discogs.com/labels/794147"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Charlie Parker",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 75617,
+            "resource_url": "https://api.discogs.com/artists/75617"
+          }
+        ],
+        "genres": [
+          "Jazz"
+        ],
+        "styles": [
+          "Bop"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2855303,
+      "instance_id": 138181794,
+      "date_added": "2015-08-18T15:22:50-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2855303,
+        "master_id": 13840,
+        "master_url": "https://api.discogs.com/masters/13840",
+        "resource_url": "https://api.discogs.com/releases/2855303",
+        "thumb": "https://img.discogs.com/kAGeXUzJrTF-VMGz7naDs_GJp28=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2855303-1488491938-5223.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/eDkK3Q4dRWWSQoM-1_nRoyWPUE0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2855303-1488491938-5223.jpeg.jpg",
+        "title": "Radio City",
+        "year": 2011,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Remastered",
+              "Repress"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Ardent Records (2)",
+            "catno": "ADS 1501",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 154802,
+            "resource_url": "https://api.discogs.com/labels/154802"
+          },
+          {
+            "name": "Ardent Records (2)",
+            "catno": "ADS-1501",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 154802,
+            "resource_url": "https://api.discogs.com/labels/154802"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Big Star",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 270582,
+            "resource_url": "https://api.discogs.com/artists/270582"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Power Pop"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2672717,
+      "instance_id": 138181755,
+      "date_added": "2015-08-18T15:22:28-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2672717,
+        "master_id": 13825,
+        "master_url": "https://api.discogs.com/masters/13825",
+        "resource_url": "https://api.discogs.com/releases/2672717",
+        "thumb": "https://img.discogs.com/PdRjoZoULz6hfDD7WmPjN65gSJY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2672717-1295957101.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/z-bc7zbvA7GARfntJLImjNEBaWY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2672717-1295957101.jpeg.jpg",
+        "title": "#1 Record",
+        "year": 0,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Ardent Records (2)",
+            "catno": "ADS 2803",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 154802,
+            "resource_url": "https://api.discogs.com/labels/154802"
+          },
+          {
+            "name": "Ardent Records (2)",
+            "catno": "ADS-2803",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 154802,
+            "resource_url": "https://api.discogs.com/labels/154802"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Big Star",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 270582,
+            "resource_url": "https://api.discogs.com/artists/270582"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Classic Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1459772,
+      "instance_id": 138182878,
+      "date_added": "2015-08-18T15:35:43-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1459772,
+        "master_id": 179488,
+        "master_url": "https://api.discogs.com/masters/179488",
+        "resource_url": "https://api.discogs.com/releases/1459772",
+        "thumb": "https://img.discogs.com/MyxVtU4X6G4z_ujByYbgtvFfFYM=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1459772-1515963487-8309.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/CHzbjgyqOpbvC_QDTUGNfVOC2dw=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1459772-1515963487-8309.jpeg.jpg",
+        "title": "King Of The Bayous",
+        "year": 1970,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Arhoolie Records",
+            "catno": "1052",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 62479,
+            "resource_url": "https://api.discogs.com/labels/62479"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Clifton Chenier",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 483697,
+            "resource_url": "https://api.discogs.com/artists/483697"
+          }
+        ],
+        "genres": [
+          "Folk, World, & Country"
+        ],
+        "styles": [
+          "Zydeco"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 3019312,
+      "instance_id": 138182915,
+      "date_added": "2015-08-18T15:36:13-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3019312,
+        "master_id": 522862,
+        "master_url": "https://api.discogs.com/masters/522862",
+        "resource_url": "https://api.discogs.com/releases/3019312",
+        "thumb": "https://img.discogs.com/BLk1uUv-8EwV3D_XBMYphg3LP4U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3019312-1360421928-8850.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/LTKMD6II3pQbsjBjXnDMqvIYVRc=/fit-in/550x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3019312-1360421928-8850.jpeg.jpg",
+        "title": "Live At The San Francisco Blues Festival",
+        "year": 1985,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Arhoolie Records",
+            "catno": "1093",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 62479,
+            "resource_url": "https://api.discogs.com/labels/62479"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Clifton Chenier And His Red Hot Louisiana Band",
+            "anv": "Clifton Chenier With His Red Hot Louisiana Band",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 846188,
+            "resource_url": "https://api.discogs.com/artists/846188"
+          }
+        ],
+        "genres": [
+          "Blues",
+          "Folk, World, & Country"
+        ],
+        "styles": [
+          "Zydeco"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 767637,
+      "instance_id": 138198119,
+      "date_added": "2015-08-18T18:12:47-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 767637,
+        "master_id": 40246,
+        "master_url": "https://api.discogs.com/masters/40246",
+        "resource_url": "https://api.discogs.com/releases/767637",
+        "thumb": "https://img.discogs.com/aC4qmYZTsPIk5KExLMbdz_xQFuI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-767637-1518949697-6635.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/jdgOq2Kgz7R7BWOmXRps_l0z8rs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-767637-1518949697-6635.jpeg.jpg",
+        "title": "Wave",
+        "year": 1979,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Hub-Servall Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Arista",
+            "catno": "AB 4221",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 362,
+            "resource_url": "https://api.discogs.com/labels/362"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Patti Smith Group",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 97733,
+            "resource_url": "https://api.discogs.com/artists/97733"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Punk",
+          "Classic Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 3624373,
+      "instance_id": 184205250,
+      "date_added": "2016-08-17T23:33:06-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3624373,
+        "master_id": 40109,
+        "master_url": "https://api.discogs.com/masters/40109",
+        "resource_url": "https://api.discogs.com/releases/3624373",
+        "thumb": "https://img.discogs.com/PtgOM3sl6FZAUkvXGha52-IUJsk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3624373-1595679433-4592.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/OnueIG8ce5JjfcxxoUoPEbG6qlY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3624373-1595679433-4592.jpeg.jpg",
+        "title": "Horses",
+        "year": 1975,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Peter Pan pressing",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Arista",
+            "catno": "AL 4066",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 362,
+            "resource_url": "https://api.discogs.com/labels/362"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Patti Smith",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 193816,
+            "resource_url": "https://api.discogs.com/artists/193816"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Art Rock",
+          "Classic Rock",
+          "Punk"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 985999,
+      "instance_id": 184205554,
+      "date_added": "2016-08-17T23:37:09-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 985999,
+        "master_id": 44373,
+        "master_url": "https://api.discogs.com/masters/44373",
+        "resource_url": "https://api.discogs.com/releases/985999",
+        "thumb": "https://img.discogs.com/7zl5xxVuEL8JCVpZX3kGHDH7GZo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-985999-1429288632-8812.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/5rj_7Gzfnb9lfqAdAFzBozopBm8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-985999-1429288632-8812.jpeg.jpg",
+        "title": "Rock And Roll Heart",
+        "year": 1976,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Arista",
+            "catno": "AL 4100",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 362,
+            "resource_url": "https://api.discogs.com/labels/362"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Lou Reed",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 11879,
+            "resource_url": "https://api.discogs.com/artists/11879"
+          }
+        ],
+        "genres": [
+          "Jazz",
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock",
+          "Rock & Roll",
+          "Jazz-Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1300351,
+      "instance_id": 138203516,
+      "date_added": "2015-08-18T19:06:38-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1300351,
+        "master_id": 88131,
+        "master_url": "https://api.discogs.com/masters/88131",
+        "resource_url": "https://api.discogs.com/releases/1300351",
+        "thumb": "https://img.discogs.com/uyP3cmhtOk-iwOhaZmm-bc-vQo0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1300351-1437454251-8960.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/Kyo4lnN8edALhDarQODhlz27mV8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1300351-1437454251-8960.jpeg.jpg",
+        "title": "Excitable Boy",
+        "year": 1978,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "PRC - Richmond Press",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Asylum Records",
+            "catno": "6E-118",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 33574,
+            "resource_url": "https://api.discogs.com/labels/33574"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Warren Zevon",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 273411,
+            "resource_url": "https://api.discogs.com/artists/273411"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 599559,
+      "instance_id": 138201057,
+      "date_added": "2015-08-18T18:41:48-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 599559,
+        "master_id": 13942,
+        "master_url": "https://api.discogs.com/masters/13942",
+        "resource_url": "https://api.discogs.com/releases/599559",
+        "thumb": "https://img.discogs.com/NMC6h6jhR7eNVbRp7qLQF1CiVg4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-599559-1334962917.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/y5R8UnIeCqJMSXQQe2hTwtlIymw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-599559-1334962917.jpeg.jpg",
+        "title": "The Heart Of Saturday Night",
+        "year": 1976,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "SP - Specialty Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Reissue",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Asylum Records",
+            "catno": "7E-1015",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 33574,
+            "resource_url": "https://api.discogs.com/labels/33574"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Tom Waits",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 82294,
+            "resource_url": "https://api.discogs.com/artists/82294"
+          }
+        ],
+        "genres": [
+          "Jazz",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "styles": [
+          "Contemporary Jazz",
+          "Spoken Word"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 704571,
+      "instance_id": 138201090,
+      "date_added": "2015-08-18T18:42:08-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 704571,
+        "master_id": 13974,
+        "master_url": "https://api.discogs.com/masters/13974",
+        "resource_url": "https://api.discogs.com/releases/704571",
+        "thumb": "https://img.discogs.com/pfXCUB-5YzX2woftCR3sWTzMBvg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-704571-1159913796.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/l8g4sS0Ht_WTN0m5s9BjcnO_v2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-704571-1159913796.jpeg.jpg",
+        "title": "Nighthawks At The Diner",
+        "year": 1975,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "CP, Gatefold",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Asylum Records",
+            "catno": "7E-2008",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 33574,
+            "resource_url": "https://api.discogs.com/labels/33574"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Tom Waits",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 82294,
+            "resource_url": "https://api.discogs.com/artists/82294"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Blues"
+        ],
+        "styles": [
+          "Blues Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 5247781,
+      "instance_id": 138182518,
+      "date_added": "2015-08-18T15:31:10-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 5247781,
+        "master_id": 14064,
+        "master_url": "https://api.discogs.com/masters/14064",
+        "resource_url": "https://api.discogs.com/releases/5247781",
+        "thumb": "https://img.discogs.com/yEWyS2n8285tYoRsHuSO38Xm-88=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-5247781-1587372504-6163.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/vTGtjO0YXkVHhz0gBkO2RHfn9k0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5247781-1587372504-6163.jpeg.jpg",
+        "title": "Buffalo Springfield Again",
+        "year": 1967,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "CT",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "ATCO Records",
+            "catno": "SD 33-226",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3820,
+            "resource_url": "https://api.discogs.com/labels/3820"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Buffalo Springfield",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 58696,
+            "resource_url": "https://api.discogs.com/artists/58696"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Pop",
+          "Folk, World, & Country"
+        ],
+        "styles": [
+          "Country Rock",
+          "Psychedelic Rock",
+          "Classic Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1993719,
+      "instance_id": 138182542,
+      "date_added": "2015-08-18T15:31:27-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1993719,
+        "master_id": 120035,
+        "master_url": "https://api.discogs.com/masters/120035",
+        "resource_url": "https://api.discogs.com/releases/1993719",
+        "thumb": "https://img.discogs.com/kBSmkVw3so7u3CK96F02at94TGc=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1993719-1328219653.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/TNuJ3n3oo3E0cu4MClSHjaj_dtw=/fit-in/594x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993719-1328219653.jpeg.jpg",
+        "title": "Last Time Around",
+        "year": 1968,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "MO",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "ATCO Records",
+            "catno": "SD 33-256",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3820,
+            "resource_url": "https://api.discogs.com/labels/3820"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Buffalo Springfield",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 58696,
+            "resource_url": "https://api.discogs.com/artists/58696"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Folk Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 7608379,
+      "instance_id": 184205614,
+      "date_added": "2016-08-17T23:37:47-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 7608379,
+        "master_id": 58320,
+        "master_url": "https://api.discogs.com/masters/58320",
+        "resource_url": "https://api.discogs.com/releases/7608379",
+        "thumb": "https://img.discogs.com/NlZoX6-JgeRzmTdq2dTXunfkcbY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-7608379-1445811701-9709.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/JgfOXlCJ2LOLmkcRaGgckanXTfw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7608379-1445811701-9709.jpeg.jpg",
+        "title": "Country Life",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "SP - Specialty Press",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "ATCO Records",
+            "catno": "SD 36-106",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3820,
+            "resource_url": "https://api.discogs.com/labels/3820"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Roxy Music",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 56621,
+            "resource_url": "https://api.discogs.com/artists/56621"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Pop"
+        ],
+        "styles": [
+          "Art Rock",
+          "Glam"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 6617729,
+      "instance_id": 138197674,
+      "date_added": "2015-08-18T18:08:22-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 6617729,
+        "master_id": 58357,
+        "master_url": "https://api.discogs.com/masters/58357",
+        "resource_url": "https://api.discogs.com/releases/6617729",
+        "thumb": "https://img.discogs.com/S_OQ7HfiHLsjJEEYSs2JCiP3ddg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6617729-1423187248-8671.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/SM8RMollL_4zsq-dr-WS3HN9ivM=/fit-in/400x390/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6617729-1423187248-8671.jpeg.jpg",
+        "title": "Stranded",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "ATCO Records",
+            "catno": "SD 7045",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 3820,
+            "resource_url": "https://api.discogs.com/labels/3820"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Roxy Music",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 56621,
+            "resource_url": "https://api.discogs.com/artists/56621"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Art Rock",
+          "Glam"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 6290126,
+      "instance_id": 841046989,
+      "date_added": "2021-10-26T11:19:09-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 6290126,
+        "master_id": 150021,
+        "master_url": "https://api.discogs.com/masters/150021",
+        "resource_url": "https://api.discogs.com/releases/6290126",
+        "thumb": "https://img.discogs.com/1Gf8WTzeKl4vs7xSizAHCNQSKmk=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6290126-1415700554-7368.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/TJ3hKZEJCyidlDjFtsIBtJLoASg=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6290126-1415700554-7368.jpeg.jpg",
+        "title": "The Best Of Booker T. & The MG's",
+        "year": 1968,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Monarch Pressing",
+            "descriptions": [
+              "LP",
+              "Compilation"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Atlantic",
+            "catno": "SD 8202",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 681,
+            "resource_url": "https://api.discogs.com/labels/681"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Booker T & The MG's",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 129348,
+            "resource_url": "https://api.discogs.com/artists/129348"
+          }
+        ],
+        "genres": [
+          "Jazz",
+          "Funk / Soul"
+        ],
+        "styles": [
+          "Rhythm & Blues",
+          "Soul",
+          "Funk"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1994162,
+      "instance_id": 138201014,
+      "date_added": "2015-08-18T18:41:18-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1994162,
+        "master_id": 278900,
+        "master_url": "https://api.discogs.com/masters/278900",
+        "resource_url": "https://api.discogs.com/releases/1994162",
+        "thumb": "https://img.discogs.com/Mo7BFtRxmkv8UKN1uxqmkYwqHyI=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1994162-1491314014-3388.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/KFoE5I7ECY0oOgYFAOsc0ubIxFY=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1994162-1491314014-3388.jpeg.jpg",
+        "title": "Loudon Wainwright III",
+        "year": 1970,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Presswell Pressing",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Atlantic",
+            "catno": "SD 8260",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 681,
+            "resource_url": "https://api.discogs.com/labels/681"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Loudon Wainwright III",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 289620,
+            "resource_url": "https://api.discogs.com/artists/289620"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Folk, World, & Country"
+        ],
+        "styles": [
+          "Folk Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 842243,
+      "instance_id": 138193898,
+      "date_added": "2015-08-18T17:32:14-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 842243,
+        "master_id": 63856,
+        "master_url": "https://api.discogs.com/masters/63856",
+        "resource_url": "https://api.discogs.com/releases/842243",
+        "thumb": "https://img.discogs.com/pVdwNolyPB65KKyWEWpymgaC5ws=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-842243-1521381302-8865.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/ieoYDEu_Mom45SFWQXDVFYTRezs=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-842243-1521381302-8865.jpeg.jpg",
+        "title": "High Time",
+        "year": 1971,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Presswell Pressing",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Atlantic",
+            "catno": "SD 8285",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 681,
+            "resource_url": "https://api.discogs.com/labels/681"
+          }
+        ],
+        "artists": [
+          {
+            "name": "MC5",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 137399,
+            "resource_url": "https://api.discogs.com/artists/137399"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Garage Rock",
+          "Punk",
+          "Psychedelic Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 3177050,
+      "instance_id": 138182788,
+      "date_added": "2015-08-18T15:34:34-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3177050,
+        "master_id": 345848,
+        "master_url": "https://api.discogs.com/masters/345848",
+        "resource_url": "https://api.discogs.com/releases/3177050",
+        "thumb": "https://img.discogs.com/UI9hMKR_o8mSqTs77QfRdcoIN6M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3177050-1319217666.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/4G2Npjj2UolpWIfntOZP4BvMOLI=/fit-in/382x381/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3177050-1319217666.jpeg.jpg",
+        "title": "Ray Charles At Newport",
+        "year": 1962,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Atlantic",
+            "catno": "SD-1289",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 681,
+            "resource_url": "https://api.discogs.com/labels/681"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Ray Charles",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 30552,
+            "resource_url": "https://api.discogs.com/artists/30552"
+          }
+        ],
+        "genres": [
+          "Jazz",
+          "Blues"
+        ],
+        "styles": []
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1183731,
+      "instance_id": 138195519,
+      "date_added": "2015-08-18T17:47:27-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1183731,
+        "master_id": 143672,
+        "master_url": "https://api.discogs.com/masters/143672",
+        "resource_url": "https://api.discogs.com/releases/1183731",
+        "thumb": "https://img.discogs.com/TaJwb6LX7jxeVUueUTZAkIohEVs=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1183731-1199052195.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/0PuFZaG7yoFzg9tXgD_K-W1DkmY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1183731-1199052195.jpeg.jpg",
+        "title": "Alligator",
+        "year": 2005,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Beggars Banquet",
+            "catno": "BBQLP 241",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2056,
+            "resource_url": "https://api.discogs.com/labels/2056"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The National",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 261537,
+            "resource_url": "https://api.discogs.com/artists/261537"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Indie Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 717131,
+      "instance_id": 138195056,
+      "date_added": "2015-08-18T17:43:15-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 717131,
+        "master_id": 58977,
+        "master_url": "https://api.discogs.com/masters/58977",
+        "resource_url": "https://api.discogs.com/releases/717131",
+        "thumb": "https://img.discogs.com/DRpVLYCXTWcIlxz_9H6YlIkY0Kw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-717131-1172296607.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/-jyKQrfYKh6ZjbUBcSkrO3poXT8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-717131-1172296607.jpeg.jpg",
+        "title": "A-Z",
+        "year": 1980,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Beggars Banquet",
+            "catno": "BEGA 20",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 2056,
+            "resource_url": "https://api.discogs.com/labels/2056"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Colin Newman",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 13719,
+            "resource_url": "https://api.discogs.com/artists/13719"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "New Wave",
+          "Experimental"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2175434,
+      "instance_id": 138182337,
+      "date_added": "2015-08-18T15:29:00-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2175434,
+        "master_id": 402314,
+        "master_url": "https://api.discogs.com/masters/402314",
+        "resource_url": "https://api.discogs.com/releases/2175434",
+        "thumb": "https://img.discogs.com/uVVhF_Ezjs9eH7cHtRxwTZt1um4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2175434-1291240212.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/Lc8UhnN7YqG_k1ijxLIErucl7mA=/fit-in/337x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2175434-1291240212.jpeg.jpg",
+        "title": "Super Hits",
+        "year": 1968,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Bestway Pressing",
+            "descriptions": [
+              "LP",
+              "Compilation"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Bell Records",
+            "catno": "6025",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 25407,
+            "resource_url": "https://api.discogs.com/labels/25407"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Box Tops",
+            "anv": "The Box Tops",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 269104,
+            "resource_url": "https://api.discogs.com/artists/269104"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Pop"
+        ],
+        "styles": [
+          "Rock & Roll"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 6392060,
+      "instance_id": 138199737,
+      "date_added": "2015-08-18T18:28:41-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 6392060,
+        "master_id": 750386,
+        "master_url": "https://api.discogs.com/masters/750386",
+        "resource_url": "https://api.discogs.com/releases/6392060",
+        "thumb": "https://img.discogs.com/CnIpJDBtztnYqMN-_G0QIcufPD0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6392060-1430583388-9641.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/qyWoTRsYSdTzJ5XdAZ9tpJVwJ7A=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6392060-1430583388-9641.jpeg.jpg",
+        "title": "1989",
+        "year": 2014,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Big Machine Records",
+            "catno": "BMRBD0500E",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 118707,
+            "resource_url": "https://api.discogs.com/labels/118707"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Taylor Swift",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 1124645,
+            "resource_url": "https://api.discogs.com/artists/1124645"
+          }
+        ],
+        "genres": [
+          "Electronic",
+          "Pop"
+        ],
+        "styles": [
+          "Synth-pop",
+          "Ballad",
+          "Downtempo"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2556770,
+      "instance_id": 138181226,
+      "date_added": "2015-08-18T15:16:47-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2556770,
+        "master_id": 291747,
+        "master_url": "https://api.discogs.com/masters/291747",
+        "resource_url": "https://api.discogs.com/releases/2556770",
+        "thumb": "https://img.discogs.com/H7KxknH4fsNNopC9xlG8LmArt-4=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2556770-1462980658-9259.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/rikuTa50Ft1mcKgenZidJc3eYs4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2556770-1462980658-9259.jpeg.jpg",
+        "title": "Wild Honey & 20/20",
+        "year": 1974,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "2",
+            "text": "Santa Maria Pressing, Gatefold",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Compilation"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Brother Records (3)",
+            "catno": "2MS 2166",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 99693,
+            "resource_url": "https://api.discogs.com/labels/99693"
+          },
+          {
+            "name": "Reprise Records",
+            "catno": "2MS 2166",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 157,
+            "resource_url": "https://api.discogs.com/labels/157"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beach Boys",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 70829,
+            "resource_url": "https://api.discogs.com/artists/70829"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Surf",
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 1567306,
+      "instance_id": 138181176,
+      "date_added": "2015-08-18T15:16:17-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 1567306,
+        "master_id": 17217,
+        "master_url": "https://api.discogs.com/masters/17217",
+        "resource_url": "https://api.discogs.com/releases/1567306",
+        "thumb": "https://img.discogs.com/GRu4ZSxYaZQk6EUhSTOiwnxgeZ8=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1567306-1525944031-8411.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/hvRpkMymFGYVWKJ-O7xXEo56ZPo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1567306-1525944031-8411.jpeg.jpg",
+        "title": "Pet Sounds",
+        "year": 1966,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "ST 2458",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beach Boys",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 70829,
+            "resource_url": "https://api.discogs.com/artists/70829"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Pop"
+        ],
+        "styles": [
+          "Psychedelic Rock",
+          "Pop Rock",
+          "Surf"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 374579,
+      "instance_id": 138181081,
+      "date_added": "2015-08-18T15:15:14-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 374579,
+        "master_id": 14499,
+        "master_url": "https://api.discogs.com/masters/14499",
+        "resource_url": "https://api.discogs.com/releases/374579",
+        "thumb": "https://img.discogs.com/fY6Dhxexx0IOfHT11K_iMzuqP1U=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-374579-1619473576-3706.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/6M7J6seSu_fYLwm5-lO2TeDcI5w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-374579-1619473576-3706.jpeg.jpg",
+        "title": "The Band",
+        "year": 1969,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold, Winchester Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "STAO-132",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Band",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 254199,
+            "resource_url": "https://api.discogs.com/artists/254199"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Folk Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 4758715,
+      "instance_id": 138192809,
+      "date_added": "2015-08-18T17:21:57-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 4758715,
+        "master_id": 75366,
+        "master_url": "https://api.discogs.com/masters/75366",
+        "resource_url": "https://api.discogs.com/releases/4758715",
+        "thumb": "https://img.discogs.com/MphGZEDcdwpG5hR36Wwblps6jvo=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4758715-1374621328-9281.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/RVcX44mfY_pk1Kjrg76ejYnUozY=/fit-in/539x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4758715-1374621328-9281.jpeg.jpg",
+        "title": "Band Of Gypsys",
+        "year": 1970,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Gatefold, Jacksonville Press",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "STAO-472",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Jimi Hendrix",
+            "anv": "Hendrix",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 110593,
+            "resource_url": "https://api.discogs.com/artists/110593"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Psychedelic Rock",
+          "Hard Rock",
+          "Acid Rock",
+          "Rhythm & Blues"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 3053853,
+      "instance_id": 138181015,
+      "date_added": "2015-08-18T15:14:44-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3053853,
+        "master_id": 14468,
+        "master_url": "https://api.discogs.com/masters/14468",
+        "resource_url": "https://api.discogs.com/releases/3053853",
+        "thumb": "https://img.discogs.com/lubU-jQQYEOD3ymBIpsS7IFCQsg=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3053853-1406143584-9081.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/9rIct9UEKbzCZMzQ9XUDXLkb9c4=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3053853-1406143584-9081.jpeg.jpg",
+        "title": "Music From Big Pink",
+        "year": 1968,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Scranton Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "SKAO 2955",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          },
+          {
+            "name": "Capitol Records",
+            "catno": "SKAO-2955",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Band",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 254199,
+            "resource_url": "https://api.discogs.com/artists/254199"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Folk Rock",
+          "Acoustic",
+          "Blues Rock",
+          "Rock & Roll"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 2611364,
+      "instance_id": 138181314,
+      "date_added": "2015-08-18T15:17:43-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 2611364,
+        "master_id": 46151,
+        "master_url": "https://api.discogs.com/masters/46151",
+        "resource_url": "https://api.discogs.com/releases/2611364",
+        "thumb": "https://img.discogs.com/o4u-DGCtCXuu1BuZQhOxD9ZLZWE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2611364-1347050502-9738.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/OMNM6r7sWquXfU7E8r0iXrgpru0=/fit-in/436x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2611364-1347050502-9738.jpeg.jpg",
+        "title": "Something New",
+        "year": 1964,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Scranton Pressing",
+            "descriptions": [
+              "Album",
+              "LP",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "ST 2108",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          },
+          {
+            "name": "Capitol Records",
+            "catno": "ST-2108",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beatles",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 82730,
+            "resource_url": "https://api.discogs.com/artists/82730"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Pop"
+        ],
+        "styles": [
+          "Rock & Roll",
+          "Pop Rock",
+          "Beat"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 4149807,
+      "instance_id": 138181355,
+      "date_added": "2015-08-18T15:18:09-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 4149807,
+        "master_id": 45526,
+        "master_url": "https://api.discogs.com/masters/45526",
+        "resource_url": "https://api.discogs.com/releases/4149807",
+        "thumb": "https://img.discogs.com/6MEily58tqhdBNTNuqSnP8iQdCE=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-4149807-1622670763-9701.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/m4p8cEWivWpbmvWChgWHVFSW6LM=/fit-in/600x623/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4149807-1622670763-9701.jpeg.jpg",
+        "title": "Rubber Soul",
+        "year": 1965,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "ST 2442",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          },
+          {
+            "name": "Capitol Records",
+            "catno": "ST-2442",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beatles",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 82730,
+            "resource_url": "https://api.discogs.com/artists/82730"
+          }
+        ],
+        "genres": [
+          "Rock"
+        ],
+        "styles": [
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 3790361,
+      "instance_id": 138181406,
+      "date_added": "2015-08-18T15:18:45-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3790361,
+        "master_id": 45284,
+        "master_url": "https://api.discogs.com/masters/45284",
+        "resource_url": "https://api.discogs.com/releases/3790361",
+        "thumb": "https://img.discogs.com/_HF4QFnT1APniC2jU5kXy3g008M=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3790361-1344524765-1731.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/xTLtOPZz8GJjxsB8vavqyvPzLgs=/fit-in/590x566/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3790361-1344524765-1731.jpeg.jpg",
+        "title": "Revolver",
+        "year": 1966,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Pitman Pressing",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Stereo"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "ST 2576",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          },
+          {
+            "name": "Capitol Records",
+            "catno": "ST-2576",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beatles",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 82730,
+            "resource_url": "https://api.discogs.com/artists/82730"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Pop"
+        ],
+        "styles": [
+          "Psychedelic Rock",
+          "Pop Rock"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 390877,
+      "instance_id": 138181127,
+      "date_added": "2015-08-18T15:15:44-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 390877,
+        "master_id": 78385,
+        "master_url": "https://api.discogs.com/masters/78385",
+        "resource_url": "https://api.discogs.com/releases/390877",
+        "thumb": "https://img.discogs.com/In_sSe5zlj35OJNBZzPtWkVY35Q=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-390877-1321171955.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/-b75-416dOU6j1ihEiBtCm8p564=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-390877-1321171955.jpeg.jpg",
+        "title": "Surfer Girl",
+        "year": 1963,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "text": "Los Angeles Press",
+            "descriptions": [
+              "LP",
+              "Album",
+              "Mono"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Capitol Records",
+            "catno": "T 1981",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          },
+          {
+            "name": "Capitol Records",
+            "catno": "T-1981",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 654,
+            "resource_url": "https://api.discogs.com/labels/654"
+          }
+        ],
+        "artists": [
+          {
+            "name": "The Beach Boys",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 70829,
+            "resource_url": "https://api.discogs.com/artists/70829"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Pop"
+        ],
+        "styles": [
+          "Surf",
+          "Pop Rock",
+          "Vocal"
+        ]
+      },
+      "folder_id": 1
+    },
+    {
+      "id": 3784630,
+      "instance_id": 138180833,
+      "date_added": "2015-08-18T15:13:06-07:00",
+      "rating": 0,
+      "basic_information": {
+        "id": 3784630,
+        "master_id": 25096,
+        "master_url": "https://api.discogs.com/masters/25096",
+        "resource_url": "https://api.discogs.com/releases/3784630",
+        "thumb": "https://img.discogs.com/7LmL7Pya76fDO_adRGE8rCe6gCY=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-3784630-1447744693-9103.jpeg.jpg",
+        "cover_image": "https://img.discogs.com/dgzq1lGCSwpZS2x292joTcM2LYY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3784630-1447744693-9103.jpeg.jpg",
+        "title": "Black Dots",
+        "year": 1996,
+        "formats": [
+          {
+            "name": "Vinyl",
+            "qty": "1",
+            "descriptions": [
+              "LP",
+              "Album"
+            ]
+          }
+        ],
+        "labels": [
+          {
+            "name": "Caroline Records",
+            "catno": "CAR 7534",
+            "entity_type": "1",
+            "entity_type_name": "Label",
+            "id": 952,
+            "resource_url": "https://api.discogs.com/labels/952"
+          }
+        ],
+        "artists": [
+          {
+            "name": "Bad Brains",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 251561,
+            "resource_url": "https://api.discogs.com/artists/251561"
+          }
+        ],
+        "genres": [
+          "Rock",
+          "Reggae"
+        ],
+        "styles": [
+          "Hardcore",
+          "Punk",
+          "Reggae"
+        ]
+      },
+      "folder_id": 1
+    }
+  ]
+}

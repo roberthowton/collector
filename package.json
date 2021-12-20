@@ -1,0 +1,48 @@
+{
+  "name": "solo-project",
+  "version": "1.0.0",
+  "description": "Solo project development repo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/server.js",
+    "build": "export NODE_ENV=production; webpack",
+    "dev": "export NODE_ENV=development; webpack serve --open & nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberthowton/solo-project.git"
+  },
+  "author": "Robert Howton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberthowton/solo-project/issues"
+  },
+  "homepage": "https://github.com/roberthowton/solo-project#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "disconnect": "^1.2.2",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hot-loader": "^4.13.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^5.3.0",
+    "react-side-pane": "^2.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-react": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.0",
+    "html-webpack-plugin": "^5.5.0",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.3.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0"
+  }
+}

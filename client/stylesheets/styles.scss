@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;700;900&display=swap');
+
+$primary-black: hsl(0, 0%, 16%);
+$secondary-black: lighten($primary-black, 20%);
+$light-grey: hsl(0, 0%, 80%);
+$super-light-grey: lighten($light-grey, 100%);
+
+$background: #131516;
+$primary-white: #ffffff;
+
+html {
+  font-size: 1.5wv;
+  background-color: $background;
+  color: $primary-white;
+}
+
+#navbar {
+  top: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+header {
+  padding: 15px;
+  margin-left: 10%;
+  font-size: 2.5rem;
+  letter-spacing: .25vw;
+  font-family: 'Zen Antique Soft', serif;
+  text-shadow: lighten($background, 25%) 1.5px 0 10px;
+}
+
+nav {
+  display: flex;
+  padding: 15px;
+  margin-right: 10%;
+}
+
+.mainSection {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2vh;
+  justify-content: space-around;
+}
+
+.release {
+  width: 35vw;
+}
+
+.overlay {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  // position: ;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  // background-color: #008CBA;
+  z-index: 1;
+}
+
+.release:hover .overlay {
+  opacity: 1;
+}
+
+.loading {
+  text-align: center;
+  padding: 8vh;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif !important;
+  letter-spacing: .25vw;
+}
+
+// .overlayBtn {
+//   color: white;
+//   font-size: 20px;
+//   position: absolute;
+//   top: 50%;
+//   left: 50%;
+//   transform: translate(-50%, -50%);
+//   -ms-transform: translate(-50%, -50%);
+// }
+
+
+.coverImg {
+  display: block;
+  border-radius: 2%;
+  width: 100%;
+  height: auto;
+}
+
+.overlayBtn {
+  border: hsl(0, 0%, 80%);
+  border-radius: 2vw;
+  padding-left: 2vw;
+  padding-right: 2vw;
+  padding-top: .5vw;
+  padding-bottom: .5vw;
+  font-size: 1rem;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 400;
+  box-shadow: lighten($background, 25%) 1.5px 0 10px;
+
+  &:hover {
+    background-color: $primary-white;
+  }
+}
+
+.queueToggle {
+  border: hsl(0, 0%, 80%);
+  border-radius: 2vw;
+  padding-left: 4vw;
+  padding-right:4vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
+  margin-right: 10%;
+  font-size: 1rem;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 700;
+  letter-spacing: .2vw;
+  box-shadow: lighten($background, 25%) 1.5px 0 10px;
+
+  &:hover {
+    background-color: $primary-white;
+  }
+}
