@@ -1,7 +1,7 @@
 {
-  "name": "solo-project",
+  "name": "Collector",
   "version": "1.0.0",
-  "description": "Solo project development repo",
+  "description": "Lightweight Discogs client designed with collectors in mind",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server/server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roberthowton/solo-project.git"
+    "url": "git+https://github.com/roberthowton/collector.git"
   },
   "author": "Robert Howton",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roberthowton/solo-project/issues"
+    "url": "https://github.com/roberthowton/collector/issues"
   },
-  "homepage": "https://github.com/roberthowton/solo-project#readme",
+  "homepage": "https://github.com/roberthowton/collector#readme",
   "dependencies": {
     "axios": "^0.24.0",
     "disconnect": "^1.2.2",
