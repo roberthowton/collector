@@ -5,25 +5,18 @@ import Collection from './components/Collection';
 import './stylesheets/styles.scss';
 import { SidePane } from 'react-side-pane';
 import Queue from './components/Queue';
+import { DiscogsEntry } from './interfaces/DiscogsEntry';
 
 const App = () => {
-  const [collection, setCollection] = useState([]);
-  const [pageNum, setPageNum] = useState(1);
-  const [totalPages, setTotalPages] = useState(null);
-  const [totalReleases, setTotalReleases] = useState(null);
-  const [queue, setQueue] = useState([]);
-  const [btnText, setBtnText] = useState('Queue');
-  const [btnLink, setBtnLink] = useState('/queue');
+  const [collection, setCollection] = useState<DiscogsEntry[]>([]);
+  const [pageNum, setPageNum] = useState<number>(1);
+  const [totalPages, setTotalPages] = useState<number>(1);
+  const [totalReleases, setTotalReleases] = useState<number>(0);
+  const [queue, setQueue] = useState<DiscogsEntry[]>([]);
+  const [btnText, setBtnText] = useState<string>('Queue');
+  const [btnLink, setBtnLink] = useState<string>('/queue');
 
-  useEffect(() => {
-    fetch('/api/getQueue')
-      .then((res) => res.json())
-      .then((res) => {
-        setQueue(res.collection);
-      });
-  }, []);
-
-  useEffect(() => {
+  const fetchCollection = () => {
     fetch(`/api/getCollection/${pageNum}`)
       .then((res) => res.json())
       .then((res) => {
@@ -32,24 +25,22 @@ const App = () => {
         });
         setTotalReleases(res.totalReleases);
         setTotalPages(res.totalPages);
-        setPageNum((pageNum) => pageNum + 1);
+        setPageNum(pageNum + 1);
       })
-      .catch((err) => console.log('App.useEffect error: Error: ', err));
+      .catch((err) => console.log('Error fetching collection: ', err));
+  };
 
-    // // needs attention
-    // for (let i = 2; i <= totalPages; i++) {
-    //   fetch(`api/collection/${pageNum}`)
-    //     .then((res) => res.json())
-    //     .then((res) => {
-    //       setCollection((collection) => {
-    //         console.log(res.collection);
-    //         return collection.concat(res.collection);
-    //       });
-    //       setPageNum((pageNum) => pageNum + 1);
-    //     });
-    // }
-    // console.log(collection);
-  }, []);
+  useEffect(() => {
+    fetch('/api/getQueue')
+      .then((res) => res.json())
+      .then((res) => {
+        setQueue(res.collection);
+      });
+  }, [queue]);
+
+  useEffect(() => {
+    if (pageNum === 1 || pageNum <= totalPages) fetchCollection()
+  }, [pageNum]);
 
   const handleNavBtnClick = () => {
     if (btnText === 'Queue') setBtnText('Collection');
@@ -71,8 +62,6 @@ const App = () => {
             </Link>
           </nav>
         </div>
-        {/* A <Switch> looks through its children <Route>s and
-            renders the first one that matches the current URL. */}
         <Switch>
           <Route path="/queue">
             {/* <SidePane
